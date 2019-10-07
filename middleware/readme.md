@@ -1,0 +1,1 @@
+Contains all the middleware of the applications

@@ -1,0 +1,1 @@
+Contains connection string to other application and Database configuration

@@ -1,0 +1,6 @@
+{
+    "name":"Azam TV",
+    "MongoDB":{
+        "url":"mongodb://localhost/AzamDBDevDB"
+    }
+}
