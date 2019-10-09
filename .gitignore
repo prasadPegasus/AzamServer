@@ -1,4 +1,4 @@
 node_modules/
 package-lock.json
-Logs/Exceptions.Logs
+Logs/Exceptions.Log
 Logs/Info.log
